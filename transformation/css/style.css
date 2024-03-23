@@ -1,0 +1,15 @@
+div {
+    width:23%;
+    height:100px;
+    margin:10px;
+    background-color:red;
+    float:left;
+  }
+  
+  .changecolor {
+    background-color:green;
+  }
+
+  img {
+    width:100px;
+  }
