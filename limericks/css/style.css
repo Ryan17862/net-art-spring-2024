@@ -3,26 +3,14 @@ font-style: italic;
 padding-top: 10px;
 }
 
-p{
+body{
 font-size: 45px;
 }
 
-body{
-style="background-color:gray;"
+p{
+background-color: gray;
 font-family: arial;
 text-align: center;
-}
-
-.title{
-    font-weight: bold;
-}
-
-#theend{
-    color: aqua;
-}
-
-div{
-    padding: 50px;
-    margin: 80px;
-    border: 10px solid black;
+font-style: bold;
+color:blue;
 }
