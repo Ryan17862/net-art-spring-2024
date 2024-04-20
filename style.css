@@ -17,7 +17,7 @@ em{
     to {color: yellow;}
 }
 
-a {
+p {
     color: red;
     animation-name: pulse ;
     animation-duration: 100s;
