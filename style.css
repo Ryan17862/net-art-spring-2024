@@ -23,5 +23,14 @@ a {
     animation-duration: 100s;
   }
   
+@keyframes flash {
+    from {color: gold;}
+    to {color: grey;}
+}
 
+div {
+    color: gold;
+    animation-name: flash ;
+    animation-duration: 100s;
+  }
 
