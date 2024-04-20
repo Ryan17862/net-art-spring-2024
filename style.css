@@ -17,7 +17,7 @@ em{
     to {color: yellow;}
 }
 
-p {
+div {
     color: red;
     animation-name: pulse ;
     animation-duration: 4s infinite;
