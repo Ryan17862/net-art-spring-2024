@@ -12,16 +12,19 @@ em{
     
 }
 
-@keyframes pulse {
-    from {color: red;}
-    to {color: yellow;}
-}
-
 div {
+
     color: red;
-    animation-name: pulse ;
-    animation-duration: 4s infinite;
+    animation-name: pulse;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
   }
   
+  @keyframes pulse {
+    from {color: red;}
+    to {color: yellow;}
+  }
+
+
 
 
