@@ -1,0 +1,27 @@
+b{
+    color:aqua
+}
+
+li{
+    
+    color:chartreuse
+}
+em{
+    color:fuchsia
+
+    
+}
+
+@keyframes pulse {
+    from {color: red;}
+    to {color: yellow;}
+}
+
+a {
+    color: red;
+    animation-name: pulse ;
+    animation-duration: 100s;
+  }
+  
+
+
