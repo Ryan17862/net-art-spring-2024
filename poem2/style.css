@@ -1,0 +1,30 @@
+b{
+    color:aqua
+}
+
+li{
+    
+    color:chartreuse
+}
+em{
+    color:fuchsia
+
+    
+}
+
+div {
+
+    color: red;
+    animation-name: pulse;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes pulse {
+    from {color: red;}
+    to {color: yellow;}
+  }
+
+
+
+
