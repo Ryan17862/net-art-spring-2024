@@ -18,6 +18,9 @@ div {
     animation-name: pulse;
     animation-duration: 4s;
     animation-iteration-count: infinite;
+    background-color: navy;
+    text-align: center;
+    font-size: 25px;
   }
   
   @keyframes pulse {
