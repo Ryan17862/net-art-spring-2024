@@ -20,7 +20,7 @@ div {
     animation-iteration-count: infinite;
     background-color: navy;
     text-align: center;
-    font-size: 50px;
+    font-size: 35px;
   }
   
   @keyframes pulse {
